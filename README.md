@@ -1,4 +1,4 @@
-# Artificial Intelligence Course
+# Artificial Intelligence Projects
 UCS, A*, CSP algorithms
 
 ## Overview
